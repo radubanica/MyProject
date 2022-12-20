@@ -10,3 +10,4 @@ python3 Main.py pedestrians.mp4 output.mp4
 
 P.S: If the output file does not pop up, you need to find an yellow section of the code wich can be found above the last 15 lines of terminal after the pipeline stopped. In this section, find 'Class ID' and the number assigned to it. To see what object is that class, open this link https://tech.amikelive.com/node-718/what-object-categories-labels-are-in-coco-dataset/ and go down the page until you find a table with numbers and object. Identify the class number and object. For video tutorial, follow this link https://youtu.be/rsHCxPpKAtM
 
+P.S Nr 2: The video of how to run the code is in the Canva Presentation but can be found also here ---> https://youtu.be/KfWtOglNi8w
